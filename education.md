@@ -7,7 +7,9 @@ title: Education
     <div class="media-body">
        <p class="media-heading">
            <strong>Ph.D. Candidate:</strong> <br />
-           2017.09 - present: the University of Munich on Machine Learning, advised by <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/tresp/index.html">Prof. Volker Tresp</a> <br />
+           <ul>
+           <li> 2017.09 - present: the University of Munich on Machine Learning, advised by <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/tresp/index.html">Prof. Volker Tresp</a> <br />
+           </ul>
        </p>
     </div>
 </div>
