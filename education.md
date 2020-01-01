@@ -28,8 +28,8 @@ title: Education
        <p class="media-heading">
            <strong>Bachelor Degree (Double Degree Program):</strong> <br />
            <ul>
-                <li>2011.09 - 2013.09: <img src="img/uni_wuhan.png" alt="uni logo" height="25" width="42"> Wuhan University </li>
-                <li>2014.04 - 2016.04: <img src="img/uni_wuppertal.png" alt="uni logo" height="25" width="42"> University of Wuppertal </li>
+                <li>2011.09 - 2013.09: <img src="img/uni_wuhan.png" alt="uni logo" height="22" width="42"> Wuhan University </li>
+                <li>2014.04 - 2016.04: <img src="img/uni_wuppertal.png" alt="uni logo" height="20" width="42"> University of Wuppertal </li>
            </ul>
            Thesis: Translating two-dimensional notations into animated 3D scenes: The case of the Yoshizawa–Randlett system, advised by <a href="https://www.dmt.uni-wuppertal.de/de/personen/schlupkothen-frederik.html">Dr. Frederik Schlupkothen</a> and <a href="https://www.dmt.uni-wuppertal.de/de/personen/schmidt-karl-heinrich.html">Prof. Karl-Heinrich Schmidt</a> <br />
            Grade: 1.0 <br />
