@@ -42,7 +42,7 @@ avatar: "/img/jindong.jpg"
 author:
   name: Jindong Gu
   email: "jindong.gu@qq.com"
-  github: Jindong    # eg. daattali
+  github: JindongGu    # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
