@@ -31,7 +31,7 @@ title: Education
            <ul>
                 <li>2011.09 - 2013.09: Printing Engineering (Image Communication Engineering), Wuhan University </li>
                 <li>2014.04 - 2016.04: Printing and Media Technology, University of Wuppertal </li>
-           <li> Thesis: Translating two-dimensional notations into animated 3D scenes: The case of the Yoshizawa–Randlett system, advised by <a href="https://www.dmt.uni-wuppertal.de/de/personen/schlupkothen-frederik.html">Dr. Frederik Schlupkothen</a> and <a href="https://www.dmt.uni-wuppertal.de/de/personen/schmidt-karl-heinrich.html">Prof. Karl-Heinrich Schmidt</a> <br />, Grade: 1.0 </li>
+           <li> Thesis: Translating two-dimensional notations into animated 3D scenes: The case of the Yoshizawa–Randlett system, advised by <a href="https://www.dmt.uni-wuppertal.de/de/personen/schlupkothen-frederik.html">Dr. Frederik Schlupkothen</a> and <a href="https://www.dmt.uni-wuppertal.de/de/personen/schmidt-karl-heinrich.html">Prof. Karl-Heinrich Schmidt</a>, Grade: 1.0 </li>
            </ul>
        </p>
     </div>
