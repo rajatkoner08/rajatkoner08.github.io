@@ -13,7 +13,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=zh-CN&us
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>test
+          <strong>Coming soon
 </strong><br />
           author <br />
           <a href="test">[PDF]</a> <a href="test">[CODE]</a><br />
