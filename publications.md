@@ -23,7 +23,7 @@ title: Publications
     <div class="media-body">
        <p class="media-heading">
           <strong>Learning with Knowledge in Explanations</strong><br />
-          Jindong Gu, Zhiliang Wu, Volker Tresp <br /> <a href="https://drive.google.com/file/d/18Eyo7XIgJ1L5Toylnp-l1dvN7wMBOPSQ/view">[PDF]</a>
+          Jindong Gu, Zhiliang Wu, Volker Tresp; Learning with Rich Experience: Integration of Learning Paradigms, NeurIPS 2019. <a href="https://drive.google.com/file/d/18Eyo7XIgJ1L5Toylnp-l1dvN7wMBOPSQ/view">[PDF]</a>
        </p>
     </div>
 </div>
