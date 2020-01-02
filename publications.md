@@ -49,15 +49,6 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Understanding Bias in Machine Learning</strong><br />
-          Jindong Gu, Daniela Oelke; 1st Workshop on Visualization for AI Explainability, IEEE Vis 2018. <a href="https://arxiv.org/abs/1909.01866">[PDF]</a>
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
           <strong>Understanding Individual Decisions of CNNs via Contrastive Backpropagation</strong><br />
           Jindong Gu, Yinchong Yang, Volker Tresp; 14th Asian Conference on Computer Vision (ACCV), 2018. <a href="https://arxiv.org/pdf/1812.02100.pdf">[PDF]</a> <a href="https://github.com/JindongGu/Contrastive-LRP">[CODE]</a>
        </p>
