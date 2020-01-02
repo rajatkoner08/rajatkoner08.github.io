@@ -20,7 +20,7 @@ title: Education
            <strong>Master Degree:</strong><br />
            <ul>
            <li> <i>2016.04 - 2017.07</i>: Computer Science, the University of Munich <br /></li>
-           <li> Thesis: Semi-supervised Outlier Detection Using Generative Adversary Networks, advised by <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html">Prof. Matthias Schubert</a> and <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/tresp/index.html">Prof. Volker Tresp</a>, Grade: 1.0  <br /> </li>
+           <li> Thesis: Semi-supervised Outlier Detection Using Generative Adversary Networks, supervised by <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html">Prof. Matthias Schubert</a> and <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/tresp/index.html">Prof. Volker Tresp</a>, Grade: 1.0  <br /> </li>
            </ul>
        </p>
     </div>
@@ -31,9 +31,9 @@ title: Education
        <p class="media-heading">
            <strong>Bachelor Degree (Double Degree Program):</strong> <br />
            <ul>
-               <li> <i>2014.04 - 2016.04</i>: Printing and Media Technology, University of Wuppertal </li>
-               <li> <i>2011.09 - 2013.09</i>: Printing Engineering (Image Communication Engineering), Wuhan University </li>
-           <li> Thesis: Translating two-dimensional notations into animated 3D scenes: The case of the Yoshizawa–Randlett system, advised by <a href="https://www.dmt.uni-wuppertal.de/de/personen/schlupkothen-frederik.html">Dr. Frederik Schlupkothen</a> and <a href="https://www.dmt.uni-wuppertal.de/de/personen/schmidt-karl-heinrich.html">Prof. Karl-Heinrich Schmidt</a>, Grade: 1.0 </li>
+               <li> <i>2014.04 - 2016.04</i>: Printing and Media Technology, <nobr>University of Wuppertal</nobr> </li>
+               <li> <i>2011.09 - 2013.09</i>: Printing Engineering (Image Communication Engineering), <nobr>Wuhan University</nobr> </li>
+           <li> Thesis: Translating two-dimensional notations into animated 3D scenes: The case of the Yoshizawa–Randlett system, supervised by <a href="https://www.dmt.uni-wuppertal.de/de/personen/schlupkothen-frederik.html">Dr. Frederik Schlupkothen</a> and <a href="https://www.dmt.uni-wuppertal.de/de/personen/schmidt-karl-heinrich.html">Prof. Karl-Heinrich Schmidt</a>, Grade: 1.0 </li>
            </ul>
        </p>
     </div>
