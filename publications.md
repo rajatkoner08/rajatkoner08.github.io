@@ -9,8 +9,8 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Coming soon</strong><br />
-          author <br /> <a href="test">[PDF]</a> <a href="test">[CODE]</a><br />
+          <strong>Improving the Robustness of Capsule Networks to Image Affine Transformations</strong><br />
+          Jindong Gu, Volker Tresp; arxiv.1911.07968 <a href="https://arxiv.org/pdf/1911.07968.pdf">[PDF]</a>
        </p>
     </div>
 </div>
@@ -22,8 +22,8 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Coming soon</strong><br />
-          author <br /> <a href="test">[PDF]</a> <a href="test">[CODE]</a><br />
+          <strong>Learning with Knowledge in Explanations</strong><br />
+          Jindong Gu, Zhiliang Wu, Volker Tresp <br /> <a href="https://drive.google.com/file/d/18Eyo7XIgJ1L5Toylnp-l1dvN7wMBOPSQ/view">[PDF]</a>
        </p>
     </div>
 </div>
@@ -31,8 +31,8 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Coming soon</strong><br />
-          author <br /> <a href="test">[PDF]</a> <a href="test">[CODE]</a><br />
+          <strong>Neural Network Memorization Dissection</strong><br />
+          Jindong Gu, Volker Tresp; Workshop on Machine Learning with Guarantees, NeurIPS 2019. <a href="https://arxiv.org/pdf/1911.09537.pdf">[PDF]</a>
        </p>
     </div>
 </div>
@@ -40,8 +40,8 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Coming soon</strong><br />
-          author <br /> <a href="test">[PDF]</a> <a href="test">[CODE]</a><br />
+          <strong>Saliency Methods for Explaining Adversarial Attacks</strong><br />
+          Jindong Gu, Volker Tresp; Human-Centric Machine Learning Workshop, NeurIPS 2019. <a href="https://arxiv.org/pdf/1908.08413.pdf">[PDF]</a>
        </p>
     </div>
 </div>
@@ -49,8 +49,8 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Coming soon</strong><br />
-          author <br /> <a href="test">[PDF]</a> <a href="test">[CODE]</a><br />
+          <strong>Understanding Bias in Machine Learning</strong><br />
+          Jindong Gu, Daniela Oelke; 1st Workshop on Visualization for AI Explainability, IEEE Vis 2018. <a href="https://arxiv.org/abs/1909.01866">[PDF]</a>
        </p>
     </div>
 </div>
@@ -59,7 +59,7 @@ title: Publications
     <div class="media-body">
        <p class="media-heading">
           <strong>Understanding Individual Decisions of CNNs via Contrastive Backpropagation</strong><br />
-          Jindong Gu, Yinchong Yang, Volker Tresp <br />, 14th Asian Conference on Computer Vision (ACCV), 2018. <a href="https://arxiv.org/pdf/1812.02100.pdf">[PDF]</a> <a href="test">[CODE]</a><br />
+          Jindong Gu, Yinchong Yang, Volker Tresp; 14th Asian Conference on Computer Vision (ACCV), 2018. <a href="https://arxiv.org/pdf/1812.02100.pdf">[PDF]</a> <a href="test">[CODE]</a><br />
        </p>
     </div>
 </div>
