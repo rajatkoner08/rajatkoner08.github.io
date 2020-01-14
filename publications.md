@@ -22,6 +22,15 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Search for Better Students to Learn Distilled Knowledge</strong><br />
+          Jindong Gu, Volker Tresp; 24th European Conference on Artificial Intelligence (ECAI), 2020
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Learning with Knowledge in Explanations</strong><br />
           Jindong Gu, Zhiliang Wu, Volker Tresp; Workshop on Learning with Rich Experience: Integration of Learning Paradigms, NeurIPS 2019. <a href="https://drive.google.com/file/d/18Eyo7XIgJ1L5Toylnp-l1dvN7wMBOPSQ/view">[PDF]</a>
        </p>
@@ -56,8 +65,6 @@ title: Publications
 </div>
 
 <br />
-Welcome to browse my <a href="https://scholar.google.com/citations?hl=zh-CN&user=d7kIkwwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar profile</a>.
-
 
 
 
