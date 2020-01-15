@@ -10,7 +10,7 @@ title: Publications
     <div class="media-body">
        <p class="media-heading">
           <strong>Improving the Robustness of Capsule Networks to Image Affine Transformations</strong><br />
-          Jindong Gu, Volker Tresp; arxiv.1911.07968 <a href="https://arxiv.org/pdf/1911.07968.pdf">[PDF]</a>
+          Jindong Gu, Volker Tresp; arxiv.1911.07968 [Under Review] <a href="https://arxiv.org/pdf/1911.07968.pdf">[PDF]</a>
        </p>
     </div>
 </div>
@@ -23,7 +23,7 @@ title: Publications
     <div class="media-body">
        <p class="media-heading">
           <strong>Search for Better Students to Learn Distilled Knowledge</strong><br />
-          Jindong Gu, Volker Tresp; 24th European Conference on Artificial Intelligence (ECAI), 2020
+          Jindong Gu, Volker Tresp; 24th European Conference on Artificial Intelligence <nobr> (ECAI), 2020 </nobr>
        </p>
     </div>
 </div>
