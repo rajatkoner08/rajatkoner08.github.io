@@ -42,9 +42,9 @@ avatar: "/img/jindong.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jindong Gu
-  email: "jindong.gu@qq.com"
+  email: "jindong.gu@outlook.com"
   github: JindongGu    # eg. daattali
-  linkedin: Jindong Gu
+  linkedin: jindong-gu-44024713a
 
 # Select which links to show in the footer
 footer-links-active:
