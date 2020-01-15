@@ -31,6 +31,15 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Saliency Methods for Explaining Adversarial Attacks</strong><br />
+          Jindong Gu, Volker Tresp; Human-Centric Machine Learning Workshop, NeurIPS 2019. <a href="https://arxiv.org/pdf/1908.08413.pdf">[PDF]</a>
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Learning with Knowledge in Explanations</strong><br />
           Jindong Gu, Zhiliang Wu, Volker Tresp; Workshop on Learning with Rich Experience: Integration of Learning Paradigms, NeurIPS 2019. <a href="https://drive.google.com/file/d/18Eyo7XIgJ1L5Toylnp-l1dvN7wMBOPSQ/view">[PDF]</a>
        </p>
@@ -42,15 +51,6 @@ title: Publications
        <p class="media-heading">
           <strong>Neural Network Memorization Dissection</strong><br />
           Jindong Gu, Volker Tresp; Workshop on Machine Learning with Guarantees, NeurIPS 2019. <a href="https://arxiv.org/pdf/1911.09537.pdf">[PDF]</a>
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Saliency Methods for Explaining Adversarial Attacks</strong><br />
-          Jindong Gu, Volker Tresp; Human-Centric Machine Learning Workshop, NeurIPS 2019. <a href="https://arxiv.org/pdf/1908.08413.pdf">[PDF]</a>
        </p>
     </div>
 </div>
