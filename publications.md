@@ -22,8 +22,17 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Improving the Robustness of Capsule Networks to Image Affine Transformations</strong><br />
+          Jindong Gu, Volker Tresp; In IEEE Conference on Computer Vision and Pattern Recognition <nobr> (CVPR), 2020 </nobr> <a href="https://arxiv.org/pdf/1911.07968.pdf">[PDF]</a>
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Search for Better Students to Learn Distilled Knowledge</strong><br />
-          Jindong Gu, Volker Tresp; 24th European Conference on Artificial Intelligence <nobr> (ECAI), 2020 </nobr>
+          Jindong Gu, Volker Tresp; 24th European Conference on Artificial Intelligence <nobr> (ECAI), 2020 </nobr> <a href="https://arxiv.org/abs/2001.11612.pdf">[PDF]</a>
        </p>
     </div>
 </div>
