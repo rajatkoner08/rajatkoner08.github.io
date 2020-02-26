@@ -10,7 +10,7 @@ title: Publications
     <div class="media-body">
        <p class="media-heading">
           <strong>Semantics for Global and Local Interpretation of Deep Neural Networks</strong><br />
-          Jindong Gu, Volker Tresp; arxiv.1911.07968 [Under Review] <a href="https://arxiv.org/pdf/1910.09085.pdf">[PDF]</a>
+          Jindong Gu, Volker Tresp; arxiv.1911.07968 [Under Review]
        </p>
     </div>
 </div>
