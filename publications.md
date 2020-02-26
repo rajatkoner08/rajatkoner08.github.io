@@ -9,8 +9,8 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Improving the Robustness of Capsule Networks to Image Affine Transformations</strong><br />
-          Jindong Gu, Volker Tresp; arxiv.1911.07968 [Under Review] <a href="https://arxiv.org/pdf/1911.07968.pdf">[PDF]</a>
+          <strong>Semantics for Global and Local Interpretation of Deep Neural Networks</strong><br />
+          Jindong Gu, Volker Tresp; arxiv.1911.07968 [Under Review] <a href="https://arxiv.org/pdf/1910.09085.pdf">[PDF]</a>
        </p>
     </div>
 </div>
