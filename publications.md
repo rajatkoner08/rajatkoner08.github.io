@@ -37,7 +37,7 @@ title: Publications
     <div class="media-body">
        <p class="media-heading">
           <strong>Search for Better Students to Learn Distilled Knowledge</strong><br />
-          Jindong Gu, Volker Tresp; 24th European Conference on Artificial Intelligence <nobr> (ECAI), 2020 </nobr> <a href="https://arxiv.org/abs/2001.11612.pdf">[PDF]</a>
+          Jindong Gu, Volker Tresp; 24th European Conference on Artificial Intelligence <br/> <nobr> (ECAI), 2020 </nobr> <a href="https://arxiv.org/abs/2001.11612.pdf">[PDF]</a>
        </p>
     </div>
 </div>
