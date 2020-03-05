@@ -64,8 +64,9 @@ title: Publications
     </div>
 </div>
 
-<p>2018</p>
-    
+<p>2018</p> <br />
+<ul>   
+    <li> 
 <div class="media">
     <div class="media-body">
        <p>
@@ -74,6 +75,8 @@ title: Publications
        </p>
     </div>
 </div>
+</li>
+</ul>
 
 <br />
 
