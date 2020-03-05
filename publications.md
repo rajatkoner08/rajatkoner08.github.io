@@ -3,12 +3,14 @@ layout: page
 title: Publications
 ---
 <h3>
-    <a name='pub'></a> Preprints
+<a name='pub'></a> Preprints
 </h3>
-       <p>
-          <strong>Semantics for Global and Local Interpretation of Deep Neural Networks</strong><br />
-          Jindong Gu, Volker Tresp; arxiv.1911.07968 [Under Review]
-       </p>
+
+<div>
+<p> <strong>Semantics for Global and Local Interpretation of Deep Neural Networks</strong><br />
+Jindong Gu, Volker Tresp; arxiv.1911.07968 [Under Review]
+</p>
+</div>
 
 <h3>
     <a name='pub'></a> Conference and Workshop Papers
