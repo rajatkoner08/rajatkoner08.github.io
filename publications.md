@@ -22,10 +22,9 @@ title: Publications
 2020 <br/>
 <ul>
 <li> 
-
-          <strong>Improving the Robustness of Capsule Networks to Image Affine Transformations</strong><br />
+ <p> <strong>Improving the Robustness of Capsule Networks to Image Affine Transformations</strong><br />
           Jindong Gu, Volker Tresp; IEEE Conference on Computer Vision and Pattern Recognition <br/> <nobr> (CVPR), 2020 </nobr> <a href="https://arxiv.org/pdf/1911.07968.pdf">[PDF]</a>
-    
+</p>    
 </li>
     
 <li> 
