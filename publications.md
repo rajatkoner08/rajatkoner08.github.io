@@ -34,53 +34,37 @@ title: Publications
 </li>
 </ul>
 
-2019 <br />
+2019 
 <ul>
 <li> 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
+       <p>
           <strong>Saliency Methods for Explaining Adversarial Attacks</strong><br />
           Jindong Gu, Volker Tresp; Human-Centric Machine Learning Workshop, NeurIPS 2019. <a href="https://arxiv.org/pdf/1908.08413.pdf">[PDF]</a>
        </p>
-    </div>
-</div>
 </li>
 
 <li> 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
+       <p>
           <strong>Learning with Knowledge in Explanations</strong><br />
           Jindong Gu, Zhiliang Wu, Volker Tresp; Workshop on Learning with Rich Experience: Integration of Learning Paradigms, NeurIPS 2019. <a href="https://drive.google.com/file/d/18Eyo7XIgJ1L5Toylnp-l1dvN7wMBOPSQ/view">[PDF]</a>
        </p>
-    </div>
-</div>
 </li>
 
 <li> 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
+       <p>
           <strong>Neural Network Memorization Dissection</strong><br />
           Jindong Gu, Volker Tresp; Workshop on Machine Learning with Guarantees, NeurIPS 2019. <a href="https://arxiv.org/pdf/1911.09537.pdf">[PDF]</a>
        </p>
-    </div>
-</div>
-    </li>
+</li>
 </ul>
 
 2018 <br />
 <ul>   
 <li> 
-<div class="media">
-    <div class="media-body">
        <p>
           <strong>Understanding Individual Decisions of CNNs via Contrastive Backpropagation</strong><br />
           Jindong Gu, Yinchong Yang, Volker Tresp; 14th Asian Conference on Computer Vision <br/> (ACCV), 2018. <a href="https://arxiv.org/pdf/1812.02100.pdf">[PDF]</a> <a href="https://github.com/JindongGu/Contrastive-LRP">[CODE]</a>
        </p>
-    </div>
-</div>
 </li>
 </ul>
 
