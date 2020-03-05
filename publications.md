@@ -19,6 +19,9 @@ title: Publications
     <a name='pub'></a> Conference and Workshop Papers
 </h3>
 
+2020 <br/>
+<ul>
+<li> 
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -27,7 +30,9 @@ title: Publications
        </p>
     </div>
 </div>
-
+</li>
+    
+<li> 
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -36,7 +41,12 @@ title: Publications
        </p>
     </div>
 </div>
+</li>
+</ul>
 
+2019 <br />
+<ul>
+<li> 
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -45,7 +55,9 @@ title: Publications
        </p>
     </div>
 </div>
+</li>
 
+<li> 
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -54,7 +66,9 @@ title: Publications
        </p>
     </div>
 </div>
+</li>
 
+<li> 
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -63,10 +77,12 @@ title: Publications
        </p>
     </div>
 </div>
+    </li>
+</ul>
 
-<p>2018</p> <br />
+2018 <br />
 <ul>   
-    <li> 
+<li> 
 <div class="media">
     <div class="media-body">
        <p>
