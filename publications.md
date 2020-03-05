@@ -58,7 +58,7 @@ Jindong Gu, Volker Tresp; arxiv.1911.07968 [Under Review]
 <ul>   
 <li> 
 <p> <strong> Understanding Individual Decisions of CNNs via Contrastive Backpropagation</strong><br />
-          Jindong Gu, Yinchong Yang, Volker Tresp; 14th Asian Conference on Computer Vision <nobr> (ACCV), 2018. <a href="https://arxiv.org/pdf/1812.02100.pdf">[PDF]</a> <a href="https://github.com/JindongGu/Contrastive-LRP">[CODE]</a>
+          Jindong Gu, Yinchong Yang, Volker Tresp; 14th Asian Conference on Computer Vision <nobr> (ACCV), 2018. </nobr> <a href="https://arxiv.org/pdf/1812.02100.pdf">[PDF]</a> <a href="https://github.com/JindongGu/Contrastive-LRP">[CODE]</a>
 </p>
 </li>
 </ul>
