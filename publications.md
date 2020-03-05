@@ -19,17 +19,17 @@ title: Publications
     <a name='pub'></a> Conference and Workshop Papers
 </h3>
 
-2020 <br/>
+2020
 <ul>
 <li> 
  <p> <strong>Improving the Robustness of Capsule Networks to Image Affine Transformations</strong><br />
-          Jindong Gu, Volker Tresp; IEEE Conference on Computer Vision and Pattern Recognition <br/> <nobr> (CVPR), 2020 </nobr> <a href="https://arxiv.org/pdf/1911.07968.pdf">[PDF]</a>
+          Jindong Gu, Volker Tresp; IEEE Conference on Computer Vision and Pattern Recognition <nobr> (CVPR), 2020 </nobr> <a href="https://arxiv.org/pdf/1911.07968.pdf">[PDF]</a>
 </p>    
 </li>
     
 <li> 
           <strong>Search for Better Students to Learn Distilled Knowledge</strong><br />
-          Jindong Gu, Volker Tresp; 24th European Conference on Artificial Intelligence <br/> <nobr> (ECAI), 2020 </nobr> <a href="https://arxiv.org/abs/2001.11612.pdf">[PDF]</a>
+          Jindong Gu, Volker Tresp; 24th European Conference on Artificial Intelligence <nobr> (ECAI), 2020 </nobr> <a href="https://arxiv.org/abs/2001.11612.pdf">[PDF]</a>
 </li>
 </ul>
 
