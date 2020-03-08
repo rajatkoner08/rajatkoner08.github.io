@@ -29,7 +29,7 @@ title: Education
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-           <strong>Bachelor Degree (Double Degree Program):</strong> <br />
+           <strong>Double Bachelor Degree Program:</strong> <br />
            <ul>
                <li> <i>2014.04 - 2016.04</i>: Printing and Media Technology, <nobr>University of Wuppertal</nobr> </li>
                <li> <nobr><i>2011.09 - 2013.09</i>: Printing Engineering (Image Communication), Wuhan University</nobr> </li>
