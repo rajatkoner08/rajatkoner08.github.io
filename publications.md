@@ -18,40 +18,40 @@ Jindong Gu, Volker Tresp; arxiv.1911.07968 [Under Review]
     <a name='pub'></a> Conference and Workshop Papers
 </h3>
 
-<p  style="line-height:20%">2020</p>
+<p  style="line-height:0%">2020</p>
 <ul>
-<li> 
+<li style="line-height:10%"> 
 <p> <strong> Improving the Robustness of Capsule Networks to Image Affine Transformations</strong><br />
           Jindong Gu, Volker Tresp; IEEE Conference on Computer Vision and Pattern Recognition <nobr> (CVPR), 2020 </nobr> <a href="https://arxiv.org/pdf/1911.07968.pdf">[PDF]</a>
 </p>    
 </li>
-<li> 
+<li style="line-height:10%"> 
  <p> <strong> Search for Better Students to Learn Distilled Knowledge</strong><br />
           Jindong Gu, Volker Tresp; 24th European Conference on Artificial Intelligence <nobr> (ECAI), 2020 </nobr> <a href="https://arxiv.org/abs/2001.11612.pdf">[PDF]</a>
 </p>
 </li>
 </ul>
 
-<p  style="line-height:20%">2019</p> 
+<p  style="line-height:0%">2019</p> 
 <ul>
-<li> 
+<li style="line-height:10%"> 
 <p> <strong> Saliency Methods for Explaining Adversarial Attacks</strong><br />
           Jindong Gu, Volker Tresp; Human-Centric Machine Learning Workshop, NeurIPS 2019. <a href="https://arxiv.org/pdf/1908.08413.pdf">[PDF]</a>
 </p>
 </li>
-<li> 
+<li style="line-height:10%"> 
 <p> <strong> Learning with Knowledge in Explanations</strong><br />
           Jindong Gu, Zhiliang Wu, Volker Tresp; Workshop on Learning with Rich Experience: Integration of Learning Paradigms, NeurIPS 2019. <a href="https://drive.google.com/file/d/18Eyo7XIgJ1L5Toylnp-l1dvN7wMBOPSQ/view">[PDF]</a>
 </p>
 </li>
-<li> 
+<li style="line-height:10%"> 
  <p> <strong> Neural Network Memorization Dissection</strong><br />
  Jindong Gu, Volker Tresp; Workshop on Machine Learning with Guarantees, NeurIPS 2019. <a href="https://arxiv.org/pdf/1911.09537.pdf">[PDF]</a>
  </p>
 </li>
 </ul>
 
-<p  style="line-height:20%">2018</p>
+<p  style="line-height:0%">2018</p>
 <ul>   
 <li> 
 <p> <strong> Understanding Individual Decisions of CNNs via Contrastive Backpropagation</strong><br />
