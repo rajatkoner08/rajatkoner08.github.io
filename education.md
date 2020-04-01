@@ -8,7 +8,7 @@ title: Education
        <p class="media-heading">
            <strong>Ph.D. Candidate:</strong> <br />
            <ul>
-           <li> <i>2017.09 - present</i>: the University of Munich on Machine Learning, <br/> advised by <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/tresp/index.html">Prof. Volker Tresp</a> </li>
+           <li> <i>2017.09 - present</i>: University of Munich on Machine Learning, <br/> advised by <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/tresp/index.html">Prof. Volker Tresp</a> </li>
            </ul>
        </p>
     </div>
@@ -19,7 +19,7 @@ title: Education
        <p class="media-heading">
            <strong>Master Degree:</strong><br />
            <ul>
-           <li> <i>2016.04 - 2017.07</i>: Computer Science, the University of Munich <br /></li>
+           <li> <i>2016.04 - 2017.07</i>: Computer Science, University of Munich <br /></li>
            <li> Thesis: Semi-supervised Outlier Detection Using Generative Adversary Networks, <br/>supervised by <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/schubert/index.html">Prof. Matthias Schubert</a> and <a href="https://www.dbs.ifi.lmu.de/cms/personen/professoren/tresp/index.html">Prof. Volker Tresp</a>, Grade: 1.0  <br /> </li>
            </ul>
        </p>
